@@ -6,8 +6,8 @@
 }
 
 body {
-    font-family: 'Montserrat', sans-serif;
-    background: linear-gradient(135deg, #2403b8 50%, #40245d 50%);
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #1d2b64, #f8cdda);
     min-height: 100vh;
     display: flex;
     align-items: center;
